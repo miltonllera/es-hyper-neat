@@ -1,0 +1,8 @@
+pyrootutils
+numpy
+jax
+equinox
+tensorneat
+flax
+jaxtyping
+chex
